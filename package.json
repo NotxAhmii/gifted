@@ -1,7 +1,7 @@
 {
-  "name": "gifted-md",
+  "name": "NOTxAHMII Bot",
   "version": "5.0.0",
-  "description": "Gifted latest multi device whatsapp bot",
+  "description": "NOTxAHMII",
   "main": "./gifted/gifted.js",
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "v10.8.2" },
@@ -11,7 +11,7 @@
     "restart": "pm2 restart gifted"
   },
   "keywords": ["gifted-md", "gifted-api", "gifted-baileys", "mouricedevs", "whatsapp-bot", "gifted-tech"],
-  "author": "Gifted Tech",
+  "author": "AHMII_HP170",
   "license": "GNU",
   "dependencies": {
     "gifted-baileys": "^1.5.1",
